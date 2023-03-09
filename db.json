@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "product": "Mangoes",
+      "detail": "The fruit varies greatly in size and character",
+      "code": "9020",
+      "id": 4
+    },
+    {
+      "product": "Oil",
+      "detail": "The fruit varies greatly in size and character",
+      "code": "0987674774",
+      "id": 4
+    },
+    {
+      "product": "Mangoes",
+      "detail": "The fruit varies greatly in size and character",
+      "code": "5050",
+      "id": 4
+    },
+    {
+      "product": "Mangoes",
+      "detail": "The fruit varies greatly in size and character",
+      "code": "2040",
+      "id": 4
+    },
+    {
+      "product": "Mangoes",
+      "detail": "The fruit varies greatly in size and character",
+      "code": "3020",
+      "id": 4
+    },
+    {
+      "product": "Mangoes",
+      "detail": "The fruit varies greatly in size and character",
+      "code": "4050",
+      "id": 4
+    }
+  ]
+}
